@@ -1,4 +1,4 @@
-package com.betterwork.author;
+package com.betterwork.entity;
 
 import lombok.Builder;
 import org.springframework.data.annotation.Id;

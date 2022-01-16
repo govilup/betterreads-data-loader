@@ -1,5 +1,6 @@
-package com.betterwork.author;
+package com.betterwork.repository;
 
+import com.betterwork.entity.Author;
 import org.springframework.data.cassandra.repository.CassandraRepository;
 import org.springframework.stereotype.Repository;
 
